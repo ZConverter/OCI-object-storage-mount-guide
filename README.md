@@ -10,6 +10,8 @@ The process of mounting Object Storage for use as file storage.
 
 4. Add a ZDM repository.
 
+---
+
 ### Step 1.
 1.	Generate an access-key and secret-key to access object storage.
 
