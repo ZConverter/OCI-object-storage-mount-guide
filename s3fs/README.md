@@ -15,11 +15,11 @@ The process of mounting Object Storage for use as file storage.
 ### Step 1.
 1.	Generate an access-key and secret-key to access object storage.
 
-    ![user.png](/s3fs/images/user.png)
+    ![user.png](/images/user.png)
 
 2.	Click the Generate Secret Key button to generate the secret-key and access-key.
 
-    ![user.png](/s3fs/images/create_secretkey.png)
+    ![user.png](/images/create_secretkey.png)
 
     Save the printed secret key and access key.
 
@@ -27,7 +27,7 @@ The process of mounting Object Storage for use as file storage.
 
 4.	Save the namespace value for the bucket.
 
-    ![namespace.png](/s3fs/images/namespace.png)
+    ![namespace.png](/images/namespace.png)
 
 5.	Verify and save the OCI object storage endpoint. here is [endpoint list](https://docs.oracle.com/en-us/iaas/api/#/en/s3objectstorage/).
 
@@ -57,15 +57,15 @@ Install s3fs-fuse, a tool for mounting object storage, and register environment 
 2.	Register the repository in the ZDM portal.
     
     a.	***Access the ZDM portal, and click the Management-ZDM tab.***
-        ![zdm.png](/s3fs/images/zdm.png)
+        ![zdm.png](/images/zdm.png)
 
     b.	***Select the ZDM where you want to register the repository.***
-        ![select.png](/s3fs/images/select.png)
+        ![select.png](/images/select.png)
 
     c.	***Click the Add Repository button.***
-        ![add_repository.png](/s3fs/images/add_repository.png)
+        ![add_repository.png](/images/add_repository.png)
 
     d.	***After entering the information according to the given form, click the Add button to register the repository.***
     <p align="center">
-        <img src="./images/register_repository.png" alt="register_repository"/>
+        <img src="../images/register_repository.png" alt="register_repository"/>
     </p>
