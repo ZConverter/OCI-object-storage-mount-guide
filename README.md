@@ -63,7 +63,7 @@ Install s3fs-fuse, a tool for mounting object storage, and register environment 
     c.	***Click the Add Repository button.***
         ![add_repository.png](/images/add_repository.png)
 
-    d.	After entering the information according to the given form, click the Add button to register the repository.
+    d.	***After entering the information according to the given form, click the Add button to register the repository.***
     <p align="center">
         <img src="./images/register_repository.png" alt="register_repository"/>
     </p>
