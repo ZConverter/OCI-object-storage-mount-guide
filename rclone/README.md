@@ -1,5 +1,5 @@
 # OCI-object-storage-mount-guide
-The process of mounting Object Storage for use as file storage.
+The process of utilizing rclone to mount Object Storage for use as file storage.
 
 ## Steps
 1. Verify information to access object storage.
